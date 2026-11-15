@@ -1,0 +1,6 @@
+# Aircrack-ng Industrial Audit Tool (Termux V2.0)
+# This script uses only Python's standard library (subprocess, os, sys, time),
+# so there are no third-party packages to install.
+#
+# System dependency (install with Termux pkg, not pip):
+#   pkg install aircrack-ng python
